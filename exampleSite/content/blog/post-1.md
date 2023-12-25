@@ -11,13 +11,13 @@ description: "this is meta description"
 
 # taxonomies
 categories:
-  - "Android And Gaming"
+  - "Data Science"
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
+  - "Data Science"
+  - "Data Analytics"
+  - "Crypto"
   - "Python"
-  - "New"
+  - "R"
 
 # post type
 type: "featured"
